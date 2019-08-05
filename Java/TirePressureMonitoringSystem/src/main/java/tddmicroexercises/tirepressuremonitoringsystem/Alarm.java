@@ -8,6 +8,7 @@ public class Alarm
     Sensor sensor = new Sensor();
 
     boolean alarmOn = false;
+    
 
     public void check()
     {
